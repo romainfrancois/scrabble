@@ -1,3 +1,4 @@
 ^LICENSE\.md$
 ^scrabble\.Rproj$
 ^\.Rproj\.user$
+^data-raw$
